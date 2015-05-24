@@ -1,4 +1,3 @@
-# cleaning-data
 Reading and Cleaning Data Project
 ================================
 
